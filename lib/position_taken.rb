@@ -2,6 +2,6 @@
 def position_taken?(board, index)
   space = board[index]
   return !(space == " "|| space == "")
-  
+
 
 end
